@@ -169,39 +169,49 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 			
+				{ "pos": [-2706, -175, 93], "title": "20 Ways To Fail", "icon": "poi.png" },
+				//Found in Stress's Episode 22 Check Hermit wiki for details
+				
 				{ "pos": [-3150, -3190, 66], "title": "Bdubs' Adventures: Shroomlight Ruins", "icon": "bdubs.png" },
 				// you might need a bigger map for this one lol
 				// Looks like it didnt make it to the world download.
+				
+				{ "pos": [-1707, 460, 123], "title": "Bdubs and Etho's Horse track", "icon": "poi.png" },
+
+				{ "pos": [-1755, 2130, 100], "title": "Bdubs Horse Pop", "icon": "bdubs.png" },
+				
+				{ "pos": [-1424, 5899, 64], "title": "Blue River Raceway", "icon": "poi.png" },
+				//The cordinates where wrong x,y,z   suggest -1683 5771 70. The front door of the whole building
+				
+				{ "pos": [-1881, 127, 194], "title": "cleo's Lab Escape Room", "icon": "cleo.png" },
+				
+				{ "pos": [-1899, 1406, 66], "title": "Coppy, the copper golem", "icon": "tango.png" },	
+				
+				{ "pos": [-524, 2058, 105], "title": "Decked Out Entrance", "icon": "tango.png" },
+
 				{ "pos": [-1850, 1410, 66], "title": "Easter egg hunt", "icon": "ijevin.png" },
 				//There is nothing at the marked location but water. was it removed?
 				
-				{ "pos": [-1683, 1825, 64], "title": "Locked Out: A Ravager's Revenge", "icon": "scar.png" },
+				{ "pos": [-1747, 282, 100], "title": "Etho's Battle Bane", "icon": "etho.png" },
 				
-				{ "pos": [-1899, 1406, 66], "title": "Coppy, the copper golem", "icon": "tango.png" },
-
-				{ "pos": [-524, 2058, 105], "title": "Decked Out Entrance", "icon": "tango.png" },
-
-				{ "pos": [-1707, 460, 123], "title": "Bdubs and Etho's Horse track", "icon": "poi.png" },
+				{ "pos": [-1802, 314, 100], "title": "impulse's Derailed", "icon": "impulse.png" },
 
 				{ "pos": [-1662, 270, 95], "title": "Impulse's Dunk Tank", "icon": "impulse.png" },
 
-				{ "pos": [-1747, 282, 100], "title": "Etho's Battle Bane", "icon": "etho.png" },
-
-				{ "pos": [-1817, 58, 63], "title": "Scar's Panda Rescue", "icon": "scar.png" },
-
-				{ "pos": [-1424, 64, 5899], "title": "Blue River Raceway", "icon": "poi.png" },
+				{ "pos": [-1683, 1825, 64], "title": "Locked Out: A Ravager's Revenge", "icon": "scar.png" },
 
 				{ "pos": [-2182, 1816, 100], "title": "Pearl's Bin-Go", "icon": "pearl.png" },
 
+				{ "pos": [-1817, 58, 63], "title": "Scar's Panda Rescue", "icon": "scar.png" },
+
 				{ "pos": [-1602, 142, 100], "title": "tango's Basalt Assault", "icon": "tango.png" },
 
-				{ "pos": [-1802, 314, 100], "title": "impulse's Derailed", "icon": "impulse.png" },
+				{ "pos": [-3032, 2776, 68], "title": "Total Chaos", "icon": "cub.png" },
+				//Location inside building, at nether portal
 
-				{ "pos": [-1185, 1225, 10], "title": "xisuma's Elytra Cave Course", "icon": "xisuma.png" },
+				{ "pos": [-1224, 1266, 70], "title": "xBCrafted's 2v2 TCG Arena", "icon": "poi.png" },
 
-				{ "pos": [-1755, 2130, 100], "title": "Bdubs Horse Pop", "icon": "bdubs.png" },
-
-				{ "pos": [-1881, 127, 194], "title": "cleo's Lab Escape Room", "icon": "cleo.png" },
+				{ "pos": [-1185, 1225, 10], "title": "xisuma's Elytra Cave Course", "icon": "xisuma.png" },				
 
 				{ "pos": [-1557, -267, 200], "title": "xisuma's Tunnel Rats", "icon": "xisuma.png" },
 			
@@ -234,7 +244,26 @@ var MAPCRAFTER_MARKERS = [
 
 				{ "pos": [688, 2188, 100], "title": "Impulse's Industrial District", "icon": "impulse.png" },
 
-				{ "pos": [-2481, 3587, 100], "title": "iJevin's Shulker Farm", "icon": "ijevin.png"},
+				{ "pos": [-2448, -3618, 70], "title": "iJevin's Shulker Farm", "icon": "ijevin.png"},
+				//Fron North entrance with - symbol
+				
+				{ "pos": [-2711, -3561, 194], "title": "iJevin's Mob Farm", "icon": "ijevin.png"},
+				//Found name at Nether portal, on nether side
+
+				{ "pos": [-2709, -3038, 207], "title": "iJevin's Creeper Farm", "icon": "ijevin.png"},
+				//Found name at iJevin nether roof portal
+				
+				{ "pos": [-1810, -1080, 75], "title": "iJevin's Iron Farm and Sugarcane Farm", "icon": "ijevin.png"},
+				//Found from nether roof portal
+
+				{ "pos": [-480, -1612, 71], "title": "Mumbo's Slime farm", "icon": "mumbo.png"},
+				//The farm that never worked but created a new way to farm
+				
+				{ "pos": [1109, 2661, 185], "title": "Raid Farm", "icon": "poi.png"},
+				//Xisuma and Keralis raid farm? Xisumavoid Episode 1048
+
+				{ "pos": [-2812, -1462, 64], "title": "Stress's Squid farm", "icon": "stress.png" },
+				//Found in Stress Monster episode 13
 				
 			],
 		},
@@ -292,6 +321,12 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				{ "pos": [0, 0, 64], "title": "(0, 0)", "icon": "poi.png" },
+
+				{ "pos": [-2081, 1611, 112], "title": "Arch of Champions", "icon": "poi.png" },
+				//RenTheKing quest line check wiki
+
+				{ "pos": [-2067, 1472, 111], "title": "Christmas District", "icon": "poi.png" },
+				//Cross over village check wiki
 				
 				{ "pos": [-1770, 1525, 64], "title": "Spawn", "icon": "poi.png" },
 				
@@ -300,7 +335,12 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-1021, 2166, 2], "title": "Grian's Inventory (And Grumbot)", "icon": "grian.png" },
 
 				{ "pos": [-1775, 1515, 63], "title": "Cub's Inventory and Coord Guide", "icon": "cub.png" },
-				
+
+				{ "pos": [-1124, 3276, 70], "title": "Scabland", "icon": "rendog.png" },
+				//Incomplete project by rendog starting Episode 49
+
+				{ "pos": [-2348, 1650, 184], "title": "RenTheKing's Crastle", "icon": "rendog.png" },
+				//build by Bdouble
 				
 			],
 		},
